@@ -2,4 +2,4 @@
 
 ga ada deskripsi
 
-Website hosting: https://vct.gt.tc
+Design on web: https://vct.gt.tc
