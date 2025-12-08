@@ -1,7 +1,7 @@
 <nav>
     <div class="container mx-auto flex items-center justify-between h-16">
         <img src={{ asset('image/icon.png') }} alt="icon" class="w-12">
-        <div class="flex divide-x-2 divide-dashed divide-gray-300 hidden md:flex">
+        <div class="divide-x-2 divide-dashed divide-gray-300 hidden md:flex">
             <div class="px-6">
                 <p class="flex flex-col font-bold text-xl"><span class="text-xs text-gray-400">vct-agency@gmail.com</span>Mail to us</p>
             </div>
